@@ -1,0 +1,1 @@
+ASP NET Core 3.1 Singleton service with queue job procesing
